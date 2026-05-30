@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Hi, I'm Vandana
 
-### 💻 Developer with 2 Year of Experience automotive hardware | Generative AI & Python 🚀
+💻 Developer | 🚗 Automotive Hardware | 🤖 Generative AI & Python
 
-Welcome to my profile! Over the past year, I’ve been building my core development foundations—writing clean code, building functional apps, and learning how to solve problems efficiently. 
+Turning 2 years of hands-on development into intelligent, AI-powered solutions. I write clean code, build functional apps, and engineer prompts that make LLMs sing.
 
-Lately, my main focus has been diving deep into the **Generative AI** ecosystem. I’ve been combining my Python skills with modern AI tools to build intelligent workflows, work with Large Language Models (LLMs), and master prompt engineering. 
+🧠 Current Focus
 
----
+| Area | What I'm Building |
+|------|-------------------|
+| 🤖 Generative AI & LLMs | Applications and automations powered by Large Language Models |
+| ✍️ Prompt Engineering | Crafting precise prompts for optimal AI performance |
+| 🐍 Python Development | Clean, maintainable code for AI-driven projects |
+| 🔗 API Integrations | Connecting AI capabilities into real-world workflows |
 
-## 🧠 What I'm Focused On Right Now
+🛠️ Tech Stack
 
-* **Generative AI & LLMs:** Building applications and automations using Large Language Models and Python.
-* **Prompt Engineering:** Designing precise, effective prompts to get the best performance out of AI models.
-* **The Coding Base:** Utilizing my 1 year of software development experience to write clean, maintainable code for AI projects.
-* **The Next Step:** Exploring advanced GenAI workflows, API integrations, and building my own AI-powered tools.
+!Python
+!OpenAI
+!LangChain
+!Git
+!VS Code
+!Generative AI
+!ethical prompt engineering
+
+🚀 What I Bring
+• 🔧 Hardware Roots — Automotive background gives me an edge in understanding real-world system constraints
+• 🧩 Problem Solver — I break complex challenges into clean, efficient solutions
+• 📈 Always Learning — Actively exploring advanced GenAI workflows and building my own AI tools
+
+📫 Let's Connect
+
+![LinkedIn](https://www.linkedin.com/in/vandana-singh-520b911b5/)
+![Email](mailto:vandanasingh1920008@gmail.com)
